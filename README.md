@@ -6,10 +6,10 @@ A simple and smooth Music Player.<br>
 <li>HTML</li>
 <li>CSS</li>
 <li>Javascript</li>
-</ul><br><br>
+</ul>
 
 <h2>Screenshot of the Webpage</h2>
-<img src="https://github.com/jhansiboini/Music-Player/blob/main/Screenshot.jpg"><br><br>
+<img style="width:400px;height:300px" src="https://github.com/jhansiboini/Music-Player/blob/main/Screenshot.jpg">
 
 <h2>Installation</h2>
 <ol type="1">
